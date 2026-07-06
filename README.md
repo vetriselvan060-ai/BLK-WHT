@@ -1,12 +1,5 @@
 # VETRISELVAN
 
-## 🎨 Brand Philosophy
-
-**BLK-WHT** represents clarity through contrast:
-- **2D Drawings**: Rendered on white panels for maximum clarity
-- **3D Models**: Presented in black for optimal visualization
-- **Result**: Professional, precision-focused CAD solutions for global teams
-
 ## 📋 What's Included
 
 ### Files
